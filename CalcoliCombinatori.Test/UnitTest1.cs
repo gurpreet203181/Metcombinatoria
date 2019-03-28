@@ -20,7 +20,7 @@ namespace CalcoliCombinatori.Test
 
             fattoriale = EquazioniLibrary.CalcoliCombinatori.Fattoriale(numero);
 
-            Console.WriteLine("{0}!={1}", numero, fattoriale);
+            Console.WriteLine("{0}!={1}", numero,  fattoriale);
         }
     }
 }
