@@ -18,7 +18,7 @@ namespace CalcoliCombinatori.Test
         {
             long fattoriale;
 
-            fattoriale = EquazioniLibrary.CalcoliCombinatori.Fattoriale(numero);
+            fattoriale = EquazioniLibrary.CalcoliCombinatori.Fattoriale( numero);
 
             Console.WriteLine("{0}!={1} ", numero,  fattoriale);
         }
